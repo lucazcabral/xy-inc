@@ -9,4 +9,5 @@ Foram utilizadas as seguintes tecnologias:
 - Spring Data JPA
 - H2 Database
 - Swagger
+- Lombok
 - JUnit
